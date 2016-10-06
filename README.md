@@ -1,2 +1,2 @@
-# docker-example-start
+# Docker example
 Docker example starting repository.
